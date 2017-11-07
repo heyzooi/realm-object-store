@@ -76,7 +76,6 @@ set(HEADERS
     util/event_loop_signal.hpp
     util/format.hpp
     util/tagged_bool.hpp
-    util/time.hpp
     util/uuid.hpp)
 
 if(APPLE)
